@@ -1,4 +1,4 @@
-# dinosaur
+# dinosaur Game
 
 바로 웹에서 배포해서 확인하려면
 jarfile폴더 안에 jar파일을 디컴파일하여
